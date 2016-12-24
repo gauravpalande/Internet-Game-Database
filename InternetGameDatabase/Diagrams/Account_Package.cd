@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InternetGameDatabase.Account.AddPhoneNumber">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Account\AddPhoneNumber.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.Confirm">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAIIAEAA=</HashCode>
+      <FileName>Account\Confirm.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.ForgotPassword">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAIAAAACCAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAA=</HashCode>
+      <FileName>Account\Forgot.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.Lockout">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Account\Lockout.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.Login">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQAAACCAAAAAAAAAAAAQAAAAABACAAAAAAIgAAA=</HashCode>
+      <FileName>Account\Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.Manage">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAADAgAAgUAAAAAAQABAIAAAAQABAAAAAAIkAAA=</HashCode>
+      <FileName>Account\Manage.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.ManageLogins">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAABEAAAAQAAAAABAAAAAAAAAAAAAAAAAAIEAAA=</HashCode>
+      <FileName>Account\ManageLogins.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.ManagePassword">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAhAAABAACQAAAAANAAAAAAAAAAAAAABAABAgIkAIA=</HashCode>
+      <FileName>Account\ManagePassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.OpenAuthProviders">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAIAAAA=</HashCode>
+      <FileName>Account\OpenAuthProviders.ascx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.Register">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAIAAAAAAAAAAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>Account\Register.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.RegisterExternalLogin">
+    <Position X="11" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAgAIACAAAAACAAAAAAAAAAAAIwAAA=</HashCode>
+      <FileName>Account\RegisterExternalLogin.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.ResetPassword">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAACAAAAAAAAAAAAAAAAAAAAACAAAAAIAAIAA=</HashCode>
+      <FileName>Account\ResetPassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.ResetPasswordConfirmation">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Account\ResetPasswordConfirmation.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.TwoFactorAuthenticationSignIn">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQIAgAAAIACEAAAIABAgAAAEABAAAAAAAAAAAAIIABA=</HashCode>
+      <FileName>Account\TwoFactorAuthenticationSignIn.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Account.VerifyPhoneNumber">
+    <Position X="12.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAABAAIAAAA=</HashCode>
+      <FileName>Account\VerifyPhoneNumber.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

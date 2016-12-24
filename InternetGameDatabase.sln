@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetGameDatabase", "InternetGameDatabase\InternetGameDatabase.csproj", "{5676F266-35B5-46F8-B50B-4EAAB926A218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.PAAPI.WCF", "Amazon.PAAPI.WCF\Amazon.PAAPI.WCF.csproj", "{72E7504D-996A-4EF2-8E03-EC838A8AC792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5676F266-35B5-46F8-B50B-4EAAB926A218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5676F266-35B5-46F8-B50B-4EAAB926A218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5676F266-35B5-46F8-B50B-4EAAB926A218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5676F266-35B5-46F8-B50B-4EAAB926A218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E7504D-996A-4EF2-8E03-EC838A8AC792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E7504D-996A-4EF2-8E03-EC838A8AC792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E7504D-996A-4EF2-8E03-EC838A8AC792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E7504D-996A-4EF2-8E03-EC838A8AC792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://simianmonk.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = InternetGameDatabase\\InternetGameDatabase.csproj
+		SccProjectName1 = InternetGameDatabase
+		SccLocalPath1 = InternetGameDatabase
+		SccProjectUniqueName2 = Amazon.PAAPI.WCF\\Amazon.PAAPI.WCF.csproj
+		SccProjectName2 = Amazon.PAAPI.WCF
+		SccLocalPath2 = Amazon.PAAPI.WCF
+	EndGlobalSection
+EndGlobal

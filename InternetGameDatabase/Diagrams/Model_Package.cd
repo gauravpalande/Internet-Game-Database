@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InternetGameDatabase.Models.Game">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAMAAIAAAAAAAAAACAAiAAEAAAA=</HashCode>
+      <FileName>Models\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Models.GameContext">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\GameContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Models.Genre">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Models\Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Models.ApplicationUser">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Models.ApplicationDbContext">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Models.InternetGameDatabaseInitializer">
+    <Position X="8.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\InternetGameDatabaseInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.Models.Platform">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InternetGameDatabase.IdentityHelper">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwSAAAAAAAAAAQAABAAgAAAAAAAAIAAgAAACAAAgAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
